@@ -1,0 +1,3 @@
+This simple project checks if there are any files with incorrect names on the local filesystem. I know that it may sound strange, but I've experienced a strange situation when a web browser saved a .html file but added somehow pipes '|' to the filename, which become a big problem.
+
+This simple app doesn't solve the problem, it just tells you that there are files with incorrect names. More details could be found on my blog: http://notonlyzeroesandones.site40.net/2009/04/14/what-have-i-learned-thanks-to-synctoy/
